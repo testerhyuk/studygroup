@@ -1,0 +1,8 @@
+server:
+  port: 9009
+springdoc:
+  swagger-ui:
+    urls:
+      - name: study-recruitment-service
+        url: /v1/study-recruitment-service/api-docs
+  default-produces-media-type: application/json

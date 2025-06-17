@@ -5,3 +5,6 @@ include 'common:snowflake'
 
 include 'service'
 include 'service:study'
+include 'service:bookmark'
+
+include 'gateway'
